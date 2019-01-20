@@ -28,3 +28,4 @@ The content of the repository is based few talks on coding python beautifully fo
 - Updating sequences
 - Using decorators to factor-out administrative logic
 - How to open and close files
+- Concise expressive one-liners
