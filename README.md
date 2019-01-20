@@ -1,7 +1,8 @@
-# beautiful-python
-The content of the notebook is based on "Transforming Code into Beautiful, Idiomatic Python" by Raymond Hettinger.
+## beautiful-python
+The content of the repository is based few talks on coding python beautifully found online.
 
-## Contents
+## Transforming Code into Beautiful, Idiomatic Python" by Raymond Hettinger.
+### Contents (Beautiful Python)
 - Looping over a range of functions
 - Looping over a collection
 - Looping backwards
@@ -26,10 +27,4 @@ The content of the notebook is based on "Transforming Code into Beautiful, Idiom
 - Concatenating strings
 - Updating sequences
 - Using decorators to factor-out administrative logic
-- Caching decorator
-- Factor-out temporary contexts for decimal
 - How to open and close files
-- How to use locks
-- Factor-out temporary contexts
-- Context manager: redirect_stdout()
-- Concise expressive one-liners﻿
